@@ -1,0 +1,15 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: flex; /* A "tag" 'display' representa o posicionamento dos itens da caixa.*/
+    align-items: center; /* A "tag" 'align-items' representa o alinhamento dos itens da caixa.*/
+    justify-content: space-between;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto
+}
